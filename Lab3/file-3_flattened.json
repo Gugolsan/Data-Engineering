@@ -1,0 +1,14 @@
+{
+  "name": "Abee",
+  "id": "6",
+  "nametype": "Valid",
+  "recclass": "EH4",
+  "mass": "107000",
+  "fall": "Fell",
+  "year": "1952-01-01T00:00:00.000",
+  "reclat": "54.216670",
+  "reclong": "-113.000000",
+  "geolocation_type": "Point",
+  "geolocation_coordinates0": -113,
+  "geolocation_coordinates1": 54.21667
+}
