@@ -1,0 +1,67 @@
+week_of_year,date,combined_stations,count
+39,2019-09-27,Canal St & Adams St_Michigan Ave & Washington St,18
+39,2019-09-27,Loomis St & Lexington St_Morgan St & Polk St,15
+39,2019-09-27,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,14
+39,2019-09-28,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,47
+39,2019-09-28,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,30
+39,2019-09-28,Dusable Harbor_Streeter Dr & Grand Ave,24
+39,2019-09-23,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,51
+39,2019-09-23,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,37
+39,2019-09-23,Michigan Ave & Oak St_Michigan Ave & Oak St,35
+39,2019-09-26,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,39
+39,2019-09-26,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,31
+39,2019-09-26,Canal St & Adams St_Michigan Ave & Washington St,29
+40,2019-09-30,Michigan Ave & Oak St_Michigan Ave & Oak St,38
+40,2019-09-30,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,37
+40,2019-09-30,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,31
+39,2019-09-24,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,30
+39,2019-09-24,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,26
+39,2019-09-24,Streeter Dr & Grand Ave_Lake Shore Dr & Monroe St,24
+39,2019-09-25,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,28
+39,2019-09-25,Canal St & Adams St_Michigan Ave & Washington St,27
+39,2019-09-25,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,22
+39,2019-09-29,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,34
+39,2019-09-29,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,25
+39,2019-09-29,Shedd Aquarium_Streeter Dr & Grand Ave,22
+51,2019-12-22,Lake Shore Dr & Monroe St_Shedd Aquarium,20
+51,2019-12-22,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,12
+51,2019-12-22,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,11
+52,2019-12-24,Millennium Park_Millennium Park,12
+52,2019-12-24,Daley Center Plaza_Daley Center Plaza,8
+52,2019-12-24,Ellis Ave & 58th St_Ellis Ave & 58th St,6
+52,2019-12-27,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,17
+52,2019-12-27,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,15
+52,2019-12-27,Millennium Park_Millennium Park,11
+51,2019-12-20,Canal St & Adams St_Michigan Ave & Washington St,11
+51,2019-12-20,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,10
+51,2019-12-20,Canal St & Madison St_Michigan Ave & Washington St,9
+52,2019-12-25,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,44
+52,2019-12-25,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,17
+52,2019-12-25,Adler Planetarium_Adler Planetarium,14
+52,2019-12-28,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,19
+52,2019-12-28,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,13
+52,2019-12-28,McCormick Place_McCormick Place,9
+51,2019-12-21,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,10
+51,2019-12-21,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,9
+51,2019-12-21,Michigan Ave & Oak St_Theater on the Lake,8
+52,2019-12-23,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,18
+52,2019-12-23,Shedd Aquarium_Millennium Park,12
+52,2019-12-23,Streeter Dr & Grand Ave_Millennium Park,8
+51,2019-12-19,Canal St & Madison St_Michigan Ave & Washington St,10
+51,2019-12-19,Columbus Dr & Randolph St_State St & Randolph St,10
+51,2019-12-19,Clinton St & Washington Blvd_Michigan Ave & Washington St,10
+51,2019-12-16,Canal St & Adams St_Michigan Ave & Washington St,13
+51,2019-12-16,Michigan Ave & Washington St_Clinton St & Washington Blvd,13
+51,2019-12-16,Columbus Dr & Randolph St_Clinton St & Washington Blvd,11
+51,2019-12-18,Larrabee St & Kingsbury St_Canal St & Adams St,10
+51,2019-12-18,Columbus Dr & Randolph St_Clinton St & Washington Blvd,9
+51,2019-12-18,Canal St & Madison St_Michigan Ave & Washington St,8
+52,2019-12-29,Lake Shore Dr & Monroe St_Streeter Dr & Grand Ave,39
+52,2019-12-29,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,31
+52,2019-12-29,Shedd Aquarium_Streeter Dr & Grand Ave,18
+51,2019-12-17,Clinton St & Madison St_LaSalle St & Jackson Blvd,11
+51,2019-12-17,Columbus Dr & Randolph St_Clinton St & Washington Blvd,10
+51,2019-12-17,Canal St & Adams St_Michigan Ave & Washington St,10
+52,2019-12-26,Lake Shore Dr & Monroe St_Lake Shore Dr & Monroe St,22
+52,2019-12-26,Buckingham Fountain_Buckingham Fountain,22
+52,2019-12-26,Streeter Dr & Grand Ave_Streeter Dr & Grand Ave,21
